@@ -9,13 +9,12 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack projects**
 
-- 👨‍💻 All of my projects are available at [https://shinkhal-sinha.vercel.app/](https://shinkhal-sinha.vercel.app/)
+- 👨‍💻 All of my projects are available at [www.shinkhal-sinha.online](www.shinkhal-sinha.online)
 
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **shinkhalsinha@gmail.com**
 
-- 📄 Know about my experiences [https://shinkhal-sinha.vercel.app/](https://shinkhal-sinha.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
