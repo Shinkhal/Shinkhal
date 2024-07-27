@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack projects**
 
-- 👨‍💻 All of my projects are available at [www.shinkhal-sinha.online](www.shinkhal-sinha.online)
+- 👨‍💻 All of my projects are available at [www.shinkhal-sinha.online](https://www.shinkhal-sinha.online/)
 
 - 💬 Ask me about **MERN Stack**
 
