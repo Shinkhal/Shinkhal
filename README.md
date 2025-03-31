@@ -11,16 +11,12 @@
 
 ### 👨‍💻 About Me  
 
-- 🔭 **I’m currently working on:**  
-  - **Farmease App** (A Smart India Hackathon 2024 project to connect farmers with consumers and retailers)  
-  - **A bakery website frontend for a client**  
-
 - 🌱 **I’m currently learning:**  
   - **Next.js**  
   - **Tailwind CSS**  
   - **React (Advanced)**  
   - **Kotlin**  
-  - **Flutter**  
+  - **GoLang**  
 
 - 👯 **I’m looking to collaborate on:**  
   - MERN Stack Projects  
@@ -33,7 +29,8 @@
   - MERN Stack  
   - React Native with Expo  
   - Cloud Computing with AWS  
-  - UI/UX Design  
+  - UI/UX Design
+  - Next.js 
 
 - 🏆 **Achievements:**  
   - Participant in Smart India Hackathon 2024 (Top 50 Teams in College)  
