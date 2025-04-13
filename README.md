@@ -15,12 +15,13 @@
   - **Next.js**  
   - **Tailwind CSS**  
   - **React (Advanced)**  
-  - **Kotlin**  
-  - **GoLang**  
+  - **Kotlin**   
 
 - 👯 **I’m looking to collaborate on:**  
   - MERN Stack Projects  
-  - Full-Stack Development Projects  
+  - Full-Stack Development Projects
+  - UI/UX Projects
+  - 
 
 - 👨‍💻 **Portfolio:**  
   - Check out my work at [www.shinkhal-sinha.online](https://www.shinkhal-sinha.online/)  
@@ -30,14 +31,8 @@
   - React Native with Expo  
   - Cloud Computing with AWS  
   - UI/UX Design
-  - Next.js 
-
-- 🏆 **Achievements:**  
-  - Participant in Smart India Hackathon 2024 (Top 50 Teams in College)  
-  - Cloud Computing with AWS Certification  
-  - GeeksforGeeks Rating: **1545**  
-  - LeetCode Questions Solved: **90+**  
-  - HackerRank Python Badge: **3-Star**  
+  - Next.js
+  - DevOps 
 
 - 📫 **How to reach me:**  
   **shinkhalsinha@gmail.com**  
