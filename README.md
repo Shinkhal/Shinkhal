@@ -1,82 +1,169 @@
-<h1 align="center">Hi 👋, I'm Shinkhal Sinha</h1>
-<h3 align="center">A Passionate Developer and Designer from India 🚀</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=SHINKHAL+SINHA;Full-Stack+Developer+%26+Designer;Creating+Digital+Experiences" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=shinkhal">
-    <img src="https://github-profile-trophy.vercel.app/?username=shinkhal" alt="Shinkhal's GitHub Trophy" />
+```javascript
+// Welcome to my code base
+const shinkhal = {
+  location: "India 🇮🇳",
+  role: "Full-Stack Developer & UI/UX Designer",
+  currentFocus: "Building scalable web applications",
+  skills: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend: ["Node.js", "Express", "MongoDB", "Firebase"],
+    mobile: ["React Native", "Expo", "Kotlin"],
+    devOps: ["AWS", "Git", "Docker", "CI/CD"],
+    design: ["Figma", "UI/UX Principles", "Responsive Design"]
+  },
+  learning: ["Next.js 14", "React Server Components", "AWS Solutions Architecture"],
+  contact: {
+    email: "shinkhalsinha@gmail.com",
+    portfolio: "https://www.shinkhal-sinha.online/",
+    linkedin: "shinkhal-sinha"
+  }
+};
+```
+
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Journey
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Frontend Ecosystem</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+      </p>
+      <p>Creating seamless and responsive user interfaces with modern technologies and best practices.</p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Backend & Server</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      </p>
+      <p>Building scalable and secure server-side applications and APIs.</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>Mobile Development</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
+      </p>
+      <p>Crafting native-like mobile experiences for iOS and Android platforms.</p>
+    </td>
+    <td valign="top">
+      <h3>Design & UX</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/UI/UX-FF61F6?style=flat-square&logo=adobe&logoColor=white" />
+        <img src="https://img.shields.io/badge/Responsive-025E8C?style=flat-square&logo=google-chrome&logoColor=white" />
+      </p>
+      <p>Designing intuitive and accessible interfaces that delight users.</p>
+    </td>
+  </tr>
+</table>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Current Projects & Learning
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Learning Path</h3>
+        <div align="center">
+          <p><strong>Next.js 14 with App Router</strong></p>
+          <p><strong>React Server Components</strong></p>
+          <p><strong>AWS Solutions Architecture</strong></p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Development Focus</h3>
+        <div align="center">
+          <p><strong>Scalable MERN Applications</strong></p>
+          <p><strong>UI/UX Design</strong></p>
+          <p><strong>DevOps & CI/CD</strong></p>
+        </div>                  
+      </td>
+    </tr>
+  </table>
+</div>
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> My Coding Life
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shinkhal/shinkhal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/TypeScript-50%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-30%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/React-10%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/CSS-5%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Other-5%25-607D8B?style=for-the-badge" />
+  </div>
+</div>
+
+<div align="center">
+  <h3>Weekly Coding Statistics</h3>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/VSCode-40_hrs-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Projects-5_Active-FF6F61?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Commits-32_Weekly-0366D6?style=for-the-badge&logo=git&logoColor=white" />
+  </div>
+</div>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/shinkhal-sinha">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+  <a href="mailto:shinkhalsinha@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.shinkhal-sinha.online/">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/shinkhal_sinha_">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/20679674/shinkhal-sinha">
+    <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shinkhal&style=for-the-badge&color=blue" alt="Profile Views" />
+</div>
 
 ---
 
-### 👨‍💻 About Me  
+<div align="center">
+  
+### "Building digital experiences that make a difference"
 
-- 🌱 **I’m currently learning:**  
-  - **Next.js**  
-  - **Tailwind CSS**  
-  - **React (Advanced)**  
-  - **Kotlin**   
+```javascript
+while(alive) {
+  eat();
+  sleep();
+  code();
+  repeat();
+}
+```
 
-- 👯 **I’m looking to collaborate on:**  
-  - MERN Stack Projects  
-  - Full-Stack Development Projects
-  - UI/UX Projects
-  - 
-
-- 👨‍💻 **Portfolio:**  
-  - Check out my work at [www.shinkhal-sinha.online](https://www.shinkhal-sinha.online/)  
-
-- 💬 **Ask me about:**  
-  - MERN Stack  
-  - React Native with Expo  
-  - Cloud Computing with AWS  
-  - UI/UX Design
-  - Next.js
-  - DevOps 
-
-- 📫 **How to reach me:**  
-  **shinkhalsinha@gmail.com**  
-
----
-
-### 🌐 Connect with Me  
-
-<p align="left">
-<a href="https://linkedin.com/in/shinkhal-sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shinkhal-sinha" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20679674/shinkhal-sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20679674/shinkhal-sinha" height="30" width="40" /></a>
-<a href="https://instagram.com/shinkhal_sinha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shinkhal_sinha_" height="30" width="40" /></a>
-<a href="https://www.behance.net/techharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="techharsh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shinkhalsinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shinkhalsinha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shinkhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shinkhal" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shinkhal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shinkhal/" height="30" width="40" /></a>
-</p>
-
----
-
-### 🛠️ Languages and Tools  
-
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-</p>
-
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shinkhal&show_icons=true&locale=en&count_private=true&theme=radical" alt="Shinkhal's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shinkhal&theme=radical" alt="Shinkhal's Profile Summary" />
-</p>
+</div>
