@@ -10,12 +10,19 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
+      # Create the dist directory first
+      - name: Create dist directory
+        run: mkdir -p dist
+      
       - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: shinkhal
-          svg_out_path: dist/github-contribution-grid-snake-dark.svg
-          # Note: removed the snake_color parameter as it's not supported
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg
+            
+      - name: Debug directory content
+        run: ls -la dist
           
       - uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
