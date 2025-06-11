@@ -108,9 +108,9 @@ const shinkhal = {
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/TypeScript-50%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-40%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-30%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/React-10%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/React-20%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/CSS-5%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/Other-5%25-607D8B?style=for-the-badge" />
   </div>
