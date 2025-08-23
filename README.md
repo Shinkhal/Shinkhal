@@ -18,7 +18,7 @@ const shinkhal = {
   learning: ["Next.js 14", "React Server Components", "AWS Solutions Architecture"],
   contact: {
     email: "shinkhalsinha@gmail.com",
-    portfolio: "https://www.shinkhal-sinha.online/",
+    portfolio: "https://www.shinkhalsinha.vercel.app",
     linkedin: "shinkhal-sinha"
   }
 };
