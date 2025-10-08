@@ -15,7 +15,7 @@ const shinkhal = {
     devOps: ["AWS", "Git", "Docker", "CI/CD"],
     design: ["Figma", "UI/UX Principles", "Responsive Design"]
   },
-  learning: ["Next.js 14", "React Server Components", "AWS Solutions Architecture"],
+  learning: ["GoLang", "React Server Components", "AWS Solutions Architecture"],
   contact: {
     email: "shinkhalsinha@gmail.com",
     portfolio: "https://www.shinkhalsinha.vercel.app",
@@ -158,7 +158,8 @@ const shinkhal = {
 ### "Building digital experiences that make a difference"
 
 ```javascript
-while(alive) {
+while(alive)
+{
   eat();
   sleep();
   code();
